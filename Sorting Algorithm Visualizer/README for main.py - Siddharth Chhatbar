@@ -1,0 +1,9 @@
+README - Siddharth Chhatbar
+
+In this program user can visualize in-place sorting algorithms.
+There are currently 2 alogrithms, Bubble Sort and Insertion Sort.
+User can press 'B' for bubble sort and 'I' for insertion sort.
+User can choose to sort the ramdomly generated numbers in ascending and descending order.
+User can press 'A' to sort in ascending order and 'D' to sort in descending order.
+'R' can be pressend anytime, evend during the algorithm runtime to reset the program.
+Pressing spacebar will start sorting.
